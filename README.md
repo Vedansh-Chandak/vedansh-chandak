@@ -1,13 +1,13 @@
 <div align="center">
 
-# Hi, I'm Vedansh Chandak 👋
+# Hi, I'm Vedansh Chandak 
 
 
 </div>
 
 ---
 
-### 🧑‍💻 About Me
+###  About Me
 
 Full-Stack Developer and **SIH 2025 Finalist** with a strong passion for building scalable, real-world applications using React, JavaScript, Node.js, and MongoDB. I specialize in solving complex problems through technology — from developing a blockchain-based crop traceability system and an AI-powered task manager, to building my own online code compiler from scratch. With hands-on experience in decentralized systems, RESTful APIs, and full-stack architecture, I thrive on turning ideas into impactful products.
 
@@ -115,14 +115,6 @@ Full-Stack Developer and **SIH 2025 Finalist** with a strong passion for buildin
 | 📝 | **[Blog-App](https://github.com/Vedansh-Chandak/Blog-App)** | Full-stack blog platform for writing, editing, publishing & managing content | JavaScript · MERN Stack |
 
 ---
-
-### Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vedansh-Chandak&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
