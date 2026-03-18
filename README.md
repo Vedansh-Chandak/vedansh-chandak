@@ -2,7 +2,6 @@
 
 # Hi, I'm Vedansh Chandak 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Blockchain+Engineer;SIH+2025+Finalist;Hackathon+Enthusiast;Building+Real-World+Solutions)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,15 +11,15 @@
 
 Full-Stack Developer and **SIH 2025 Finalist** with a strong passion for building scalable, real-world applications using React, JavaScript, Node.js, and MongoDB. I specialize in solving complex problems through technology — from developing a blockchain-based crop traceability system and an AI-powered task manager, to building my own online code compiler from scratch. With hands-on experience in decentralized systems, RESTful APIs, and full-stack architecture, I thrive on turning ideas into impactful products.
 
-- 🏆 **Smart India Hackathon 2025 — Finalist**
-- 🔭 Currently building **AI & Blockchain-powered applications**
-- 🌱 Exploring **Web3, Decentralized Systems & Scalable Architectures**
-- ⚡ Love participating in **Hackathons** and turning ideas into real products
-- 📬 Open to **collaborations, internships & opportunities**
+-  **Smart India Hackathon 2025 — Finalist**
+-  Currently building **AI & Blockchain-powered applications**
+-  Exploring **Web3, Decentralized Systems & Scalable Architectures**
+-  Love participating in **Hackathons** and turning ideas into real products
+-  Open to **collaborations, internships & opportunities**
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 #### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -53,7 +52,7 @@ Full-Stack Developer and **SIH 2025 Finalist** with a strong passion for buildin
 
 ---
 
-### 📊 GitHub Stats & Most Used Languages
+###  GitHub Stats & Most Used Languages
 
 <div align="center">
 
@@ -65,7 +64,7 @@ Full-Stack Developer and **SIH 2025 Finalist** with a strong passion for buildin
 
 ---
 
-### 🔥 Streak Stats
+###  Streak Stats
 
 <div align="center">
 
@@ -75,7 +74,7 @@ Full-Stack Developer and **SIH 2025 Finalist** with a strong passion for buildin
 
 ---
 
-### 📈 Contribution Heatmap
+###  Contribution Heatmap
 
 <div align="center">
 
@@ -85,7 +84,7 @@ Full-Stack Developer and **SIH 2025 Finalist** with a strong passion for buildin
 
 ---
 
-### 🏅 Detailed Stats
+###  Detailed Stats
 
 <div align="center">
 
@@ -104,7 +103,7 @@ Full-Stack Developer and **SIH 2025 Finalist** with a strong passion for buildin
 
 ---
 
-### 🚀 Pinned Projects
+###  Pinned Projects
 
 | # | Project | Description | Stack |
 |---|---------|-------------|-------|
@@ -117,7 +116,7 @@ Full-Stack Developer and **SIH 2025 Finalist** with a strong passion for buildin
 
 ---
 
-### 🏆 Achievements
+### Achievements
 
 <div align="center">
 
@@ -127,7 +126,7 @@ Full-Stack Developer and **SIH 2025 Finalist** with a strong passion for buildin
 
 ---
 
-### 🤝 Connect with Me
+### Connect with Me
 
 <div align="center">
 
