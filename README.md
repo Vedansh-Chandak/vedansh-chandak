@@ -21,6 +21,22 @@ Full-Stack Developer and **SIH 2025 Finalist** with a strong passion for buildin
 
 ###  Tech Stack
 
+<div>
+  ###  Pinned Projects
+
+| # | Project | Description | Stack |
+|---|---------|-------------|-------|
+| 🏆 | **[SIH\_FINAL-PS25027](https://github.com/Vedansh-Chandak/SIH_FINAL-PS25027-)** | SIH 2025 Finalist project by Team GuptaSquad06 — blockchain-based solution for botanical traceability (PS SIH25027) | Blockchain · Node.js · MongoDB |
+| 🐙 | **[Get-Git](https://github.com/Vedansh-Chandak/Get-Git)** | MERN app that lets users log in with GitHub, search repos by keyword (sorted by stars), and save watch history | React · Node.js · MongoDB · GitHub API |
+| 📄 | **[ai-resume-builder](https://github.com/Vedansh-Chandak/ai-resume-builder)** | AI-powered resume builder for generating professional resumes with intelligent suggestions | TypeScript · React · AI |
+| ✈️ | **[Plan-eit](https://github.com/Vedansh-Chandak/Plan-eit)** | Budget-friendly trip planner with personalized itineraries, real-time price comparisons & smart budgeting tools | JavaScript · React · Node.js |
+| 💻 | **[SYNTAX-ERROR](https://github.com/Vedansh-Chandak/SYNTAX-ERROR)** | Online CodePen clone — real-time HTML, CSS & JS editor with live preview in the browser | TypeScript · React |
+| 📝 | **[Blog-App](https://github.com/Vedansh-Chandak/Blog-App)** | Full-stack blog platform for writing, editing, publishing & managing content | JavaScript · MERN Stack |
+
+---
+
+</div>
+
 #### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
