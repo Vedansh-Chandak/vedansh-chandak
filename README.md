@@ -68,63 +68,7 @@ Full-Stack Developer and **SIH 2025 Finalist** with a strong passion for buildin
 
 ---
 
-###  GitHub Stats & Most Used Languages
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vedansh-Chandak&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&rank_icon=github" height="180" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedansh-Chandak&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9" height="180" />
-
-</div>
-
----
-
-###  Streak Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Vedansh-Chandak&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=00e5ff&ring=00e5ff&fire=ff6b6b&currStreakLabel=00e5ff&sideLabels=c9d1d9&dates=64748b" width="65%" />
-
-</div>
-
----
-
-###  Contribution Heatmap
-
-<div align="center">
-
-[![Vedansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vedansh-Chandak&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&area_color=00e5ff20&hide_border=true&custom_title=Contribution%20Heatmap&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-###  Detailed Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vedansh-Chandak&theme=tokyonight" width="96%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vedansh-Chandak&theme=tokyonight" width="23%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vedansh-Chandak&theme=tokyonight" width="23%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vedansh-Chandak&theme=tokyonight" width="23%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vedansh-Chandak&theme=tokyonight&utcOffset=5.5" width="23%" />
-
-</div>
-
----
-
-
-
-
----
-
----
 
 ### Connect with Me
 
