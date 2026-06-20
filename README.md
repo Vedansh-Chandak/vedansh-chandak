@@ -31,7 +31,6 @@ Full-Stack Developer and **SIH 2025 Finalist** with a strong passion for buildin
 | 🐙 | **[Get-Git](https://github.com/Vedansh-Chandak/Get-Git)** | MERN app that lets users log in with GitHub, search repositories by keyword, rank them by stars, and maintain watch history. | React · Node.js · MongoDB · GitHub API |
 | 📄 | **[AI Resume Builder](https://github.com/Vedansh-Chandak/ai-resume-builder)** | AI-powered resume builder for generating professional resumes with intelligent suggestions and customizable templates. | TypeScript · React · AI |
 | ✈️ | **[Plan-eit](https://github.com/Vedansh-Chandak/Plan-eit)** | Budget-friendly trip planner with personalized itineraries, real-time price comparisons, and smart budgeting tools. | JavaScript · React · Node.js |
-| 💻 | **[SYNTAX-ERROR](https://github.com/Vedansh-Chandak/SYNTAX-ERROR)** | Online CodePen clone featuring real-time HTML, CSS, and JavaScript editing with instant live preview. | TypeScript · React |
 | 📝 | **[Blog-App](https://github.com/Vedansh-Chandak/Blog-App)** | Full-stack blog platform for writing, editing, publishing, and managing content. | JavaScript · MERN Stack |
 
 ---
