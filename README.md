@@ -11,7 +11,7 @@
 
 Full-Stack Developer and **SIH 2025 Finalist** with a strong passion for building scalable, real-world applications using React, JavaScript, Node.js, and MongoDB. I specialize in solving complex problems through technology — from developing a blockchain-based crop traceability system and an AI-powered task manager, to building my own online code compiler from scratch. With hands-on experience in decentralized systems, RESTful APIs, and full-stack architecture, I thrive on turning ideas into impactful products.
 
--  **Smart India Hackathon 2025 — Finalist**
+-  **Smart India Hackathon 2025 — Runner Up**
 -  Currently building **AI & Blockchain-powered applications**
 -  Exploring **Web3, Decentralized Systems & Scalable Architectures**
 -  Love participating in **Hackathons** and turning ideas into real products
