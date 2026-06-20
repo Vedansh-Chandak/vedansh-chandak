@@ -23,18 +23,21 @@ Full-Stack Developer and **SIH 2025 Finalist** with a strong passion for buildin
 
 <div>
 
-
 | # | Project | Description | Stack |
 |---|---------|-------------|-------|
-| 🏆 | **[SIH\_FINAL-PS25027](https://github.com/Vedansh-Chandak/SIH_FINAL-PS25027-)** | SIH 2025 Finalist project by Team GuptaSquad06 — blockchain-based solution for botanical traceability (PS SIH25027) | Blockchain · Node.js · MongoDB |
-| 🐙 | **[Get-Git](https://github.com/Vedansh-Chandak/Get-Git)** | MERN app that lets users log in with GitHub, search repos by keyword (sorted by stars), and save watch history | React · Node.js · MongoDB · GitHub API |
-| 📄 | **[ai-resume-builder](https://github.com/Vedansh-Chandak/ai-resume-builder)** | AI-powered resume builder for generating professional resumes with intelligent suggestions | TypeScript · React · AI |
-| ✈️ | **[Plan-eit](https://github.com/Vedansh-Chandak/Plan-eit)** | Budget-friendly trip planner with personalized itineraries, real-time price comparisons & smart budgeting tools | JavaScript · React · Node.js |
-| 💻 | **[SYNTAX-ERROR](https://github.com/Vedansh-Chandak/SYNTAX-ERROR)** | Online CodePen clone — real-time HTML, CSS & JS editor with live preview in the browser | TypeScript · React |
-| 📝 | **[Blog-App](https://github.com/Vedansh-Chandak/Blog-App)** | Full-stack blog platform for writing, editing, publishing & managing content | JavaScript · MERN Stack |
+| 🏆 | **[SIH_FINAL-PS25027](https://github.com/Vedansh-Chandak/SIH_FINAL-PS25027-)** | Smart India Hackathon National Runner-Up project by Team GuptaSquad06 focused on botanical crop traceability and authenticity verification. | Node.js · MongoDB · Full Stack |
+| 🛡️ | **[NetSentinel](https://github.com/Vedansh-Chandak/NetSentinel---AI-Powered-Deep-Packet-Inspection-Network-Threat-Detection-Platform)** | AI-powered Deep Packet Inspection (DPI) network threat detection platform capable of identifying applications, domains, protocols, and suspicious traffic patterns in real time. | C++ · Networking · libpcap · DPI · AI |
+| 🎥 | **[AutoTube](https://github.com/Vedansh-Chandak/Channel-automation)** | AI-powered YouTube channel automation platform that generates scripts, thumbnails, and content workflows to streamline video creation. | MERN · AI APIs · MongoDB |
+| 🐙 | **[Get-Git](https://github.com/Vedansh-Chandak/Get-Git)** | MERN app that lets users log in with GitHub, search repositories by keyword, rank them by stars, and maintain watch history. | React · Node.js · MongoDB · GitHub API |
+| 📄 | **[AI Resume Builder](https://github.com/Vedansh-Chandak/ai-resume-builder)** | AI-powered resume builder for generating professional resumes with intelligent suggestions and customizable templates. | TypeScript · React · AI |
+| ✈️ | **[Plan-eit](https://github.com/Vedansh-Chandak/Plan-eit)** | Budget-friendly trip planner with personalized itineraries, real-time price comparisons, and smart budgeting tools. | JavaScript · React · Node.js |
+| 💻 | **[SYNTAX-ERROR](https://github.com/Vedansh-Chandak/SYNTAX-ERROR)** | Online CodePen clone featuring real-time HTML, CSS, and JavaScript editing with instant live preview. | TypeScript · React |
+| 📝 | **[Blog-App](https://github.com/Vedansh-Chandak/Blog-App)** | Full-stack blog platform for writing, editing, publishing, and managing content. | JavaScript · MERN Stack |
 
 ---
-###  Tech Stack
+
+### Tech Stack
+
 </div>
 
 #### Frontend
